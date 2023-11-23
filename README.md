@@ -1,11 +1,11 @@
-#JSON(JavaScript Object Notation)
+#**JSON(JavaScript Object Notation)**
 
 . Data Representation Format <br>
 . Commonly user for `APIs` and `Configs` <br>
 .` Lightweight` and easy to` Read/Write` <br>
 . Integrates Easily with most languages <br>
 
-###JSON Types
+###**JSON Types**
 
 1. `Strings` 	- "Hello World" 
 2. `Numbers` 	- 10	10.5	-20		1.2e1
